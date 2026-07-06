@@ -60,12 +60,12 @@ const About = ({ darkMode }) => {
                         data-aos='fade-up'
                         data-aos-delay='500'
                     >
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                        sed do eiusmod tempor incididunt ut labore et dolore magna
-                        aliqua. Ut enim ad minim veniam, quis nostrud exercitation
-                        ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                        Duis aute irure dolor in reprehenderit in voluptate velit
-                        esse cillum dolore eu fugiat nulla pariatur.
+                        Hi, I'm Japji Kaur, a Computer Science Engineering student with a passion for developing clean, 
+                        responsive, and user-friendly web applications. I specialize in React.js, JavaScript, HTML, CSS, Tailwind CSS, 
+                        Node.js, and C++, and I'm continuously expanding my knowledge in Artificial Intelligence and Cybersecurity. 
+                        I enjoy solving real-world problems through code, building meaningful projects, and learning new technologies 
+                        that help me grow as a developer. I'm currently seeking opportunities to gain practical experience, collaborate 
+                        on innovative projects, and contribute to impactful software solutions.
                     </p>
                     <div className="flex flex-wrap justify-center lg:justify-start gap-4 sm:gap-6 lg:gap-8 mb-6 sm:mb-8">
                         <div className="grid grid-cols-1 sm:grid-cols-3 gap-8 mt-10">
