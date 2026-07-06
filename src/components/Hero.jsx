@@ -97,10 +97,7 @@ const Hero = ({ darkMode }) => {
               data-aos="fade-up"
               data-aos-delay="600"
             >
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-              eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-              enim ad minim veniam, quis nostrud exercitation ullamco laboris
-              nisi ut aliquip ex ea commodo consequat.
+              I'm Japji Kaur, a Computer Science Engineering student passionate about developing responsive and user-friendly web applications. Skilled in React, JavaScript, Node.js, Tailwind CSS, and C++, I'm currently expanding my expertise in Artificial Intelligence while building projects that solve real-world problems.
             </p>
 
             {/* Buttons */}
