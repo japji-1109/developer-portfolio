@@ -62,7 +62,7 @@ const About = ({ darkMode }) => {
                     >
                         Hi, I'm Japji Kaur, a Computer Science Engineering student with a passion for developing clean, 
                         responsive, and user-friendly web applications. I specialize in React.js, JavaScript, HTML, CSS, Tailwind CSS, 
-                        Node.js, and C++, and I'm continuously expanding my knowledge in Artificial Intelligence and Cybersecurity. 
+                        Node.js, and C++, and I'm continuously expanding my knowledge in Artificial Intelligence.
                         I enjoy solving real-world problems through code, building meaningful projects, and learning new technologies 
                         that help me grow as a developer. I'm currently seeking opportunities to gain practical experience, collaborate 
                         on innovative projects, and contribute to impactful software solutions.
